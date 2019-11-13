@@ -2,7 +2,10 @@
 
 echo " hallo "
 read -p "halo masukan nama anda disamping :" nama
-echo "halo tuan" $nama
-echo "jangan makan eek pahit"
-echo "bye"
-sleep 5
+echo "halo tuan"
+  ererror
+  eror
+  error
+  eerror
+  error
+  
