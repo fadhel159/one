@@ -1,6 +1,0 @@
-#!/system/bin/sh
-
-echo "Selamat datang"
-echo ""
-echo "Ini masih percobaan bye"
-sleep 3
